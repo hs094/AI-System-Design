@@ -1,3 +1,6 @@
 [submodule "genai-llm-ml-case-studies"]
 	path = genai-llm-ml-case-studies
 	url = https://github.com/themanojdesai/genai-llm-ml-case-studies.git
+[submodule "GenAI-Agents-Tutorials"]
+	path = GenAI-Agents-Tutorials
+	url = https://github.com/NirDiamant/GenAI_Agents
